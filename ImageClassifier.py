@@ -32,7 +32,8 @@ iSecs=time.time()
 
 
 # Path to Dataset
-root_path = r'C:\Users\sicil\OneDrive\Desktop\CS369\IntelTrainingDataset'
+#ENTER PATH
+root_path = r'PATH TO IntelTrainingDataset'
 
 
 # split into subfolders based on class label
